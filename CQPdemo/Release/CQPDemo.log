@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (com.example.democ.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  appmain.cpp
+E:\Workarea\cc.yuukisama.CQtest\CQPdemo\libs.h(253,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\Workarea\cc.yuukisama.CQtest\CQPdemo\appmain.cpp(292,16): warning C4018: “<”: 有符号/无符号不匹配
+E:\Workarea\cc.yuukisama.CQtest\CQPdemo\appmain.cpp(425,23): warning C4018: “<”: 有符号/无符号不匹配
+    正在创建库 E:\Workarea\cc.yuukisama.CQtest\Release\cc.yuukisama.CQtest.lib 和对象 E:\Workarea\cc.yuukisama.CQtest\Release\cc.yuukisama.CQtest.exp
+  正在生成代码
+  0 of 3151 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  CQPDemo.vcxproj -> E:\Workarea\cc.yuukisama.CQtest\Release\cc.yuukisama.CQtest.dll
